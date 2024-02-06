@@ -12,6 +12,8 @@ Text Domain: advanced-database-cleaner
 Domain Path: /languages/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+GitHub Plugin URI: i-Tom/advanced-database-cleaner-pro
+Primary Branch: main
 */
 
 // Don't load directly
