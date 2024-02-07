@@ -1342,7 +1342,7 @@ function aDBc_get_core_options() {
 		'user_roles',
 		'widget_nav_menu',
 		// by Tomi
-		'recovery_mode_email_last_sent',
+		'recovery_mode_email_last_sent','nav_menu_options',
 	);
 
 	// Before doing anything, we add some special options to the WP core options array
