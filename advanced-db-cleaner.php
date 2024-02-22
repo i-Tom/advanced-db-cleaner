@@ -4,7 +4,7 @@
 Plugin Name: Advanced Database Cleaner PRO
 Plugin URI: https://sigmaplugin.com/downloads/wordpress-advanced-database-cleaner
 Description: Clean database by deleting orphaned data such as 'old revisions', 'old drafts', 'orphan options', etc. Optimize database and more.
-Version: 3.2.8
+Version: 3.2.8.1
 Author: Younes JFR.
 Author URI: https://www.sigmaplugin.com
 Contributors: symptote
